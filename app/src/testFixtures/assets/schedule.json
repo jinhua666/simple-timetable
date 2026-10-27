@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "title": "示例学期（全部为虚构数据）",
+  "firstMonday": "2026-09-07",
+  "totalWeeks": 19,
+  "periods": [
+    {
+      "number": 1,
+      "start": "09:00",
+      "end": "09:45"
+    },
+    {
+      "number": 2,
+      "start": "09:55",
+      "end": "10:40"
+    },
+    {
+      "number": 3,
+      "start": "10:50",
+      "end": "11:35"
+    },
+    {
+      "number": 4,
+      "start": "11:45",
+      "end": "12:30"
+    },
+    {
+      "number": 5,
+      "start": "14:00",
+      "end": "14:45"
+    },
+    {
+      "number": 6,
+      "start": "14:55",
+      "end": "15:40"
+    },
+    {
+      "number": 7,
+      "start": "15:50",
+      "end": "16:35"
+    },
+    {
+      "number": 8,
+      "start": "16:45",
+      "end": "17:30"
+    },
+    {
+      "number": 9,
+      "start": "19:00",
+      "end": "19:45"
+    },
+    {
+      "number": 10,
+      "start": "19:55",
+      "end": "20:45"
+    },
+    {
+      "number": 11,
+      "start": "20:50",
+      "end": "21:35"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "demo-1",
+      "courseId": "DEMO001",
+      "title": "示例课程一",
+      "teacher": "示例教师一",
+      "room": "DEMO-201",
+      "roomDetail": "DEMO-201",
+      "day": 3,
+      "start": 1,
+      "end": 4,
+      "weeks": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "color": 0
+    },
+    {
+      "id": "demo-2",
+      "courseId": "DEMO002",
+      "title": "示例课程二",
+      "teacher": "示例教师二",
+      "room": "DEMO-102",
+      "roomDetail": "DEMO-102",
+      "day": 4,
+      "start": 3,
+      "end": 4,
+      "weeks": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "color": 1
+    },
+    {
+      "id": "demo-3",
+      "courseId": "DEMO003",
+      "title": "示例课程三",
+      "teacher": "示例教师三",
+      "room": "DEMO-102",
+      "roomDetail": "DEMO-102",
+      "day": 5,
+      "start": 3,
+      "end": 4,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "color": 2
+    },
+    {
+      "id": "demo-4",
+      "courseId": "DEMO004",
+      "title": "示例课程四",
+      "teacher": "示例教师四",
+      "room": "DEMO-103",
+      "roomDetail": "DEMO-103",
+      "day": 2,
+      "start": 5,
+      "end": 7,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "color": 3
+    },
+    {
+      "id": "demo-5",
+      "courseId": "DEMO005",
+      "title": "示例课程五",
+      "teacher": "示例教师五",
+      "room": "DEMO-103",
+      "roomDetail": "DEMO-103",
+      "day": 3,
+      "start": 5,
+      "end": 6,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "color": 4
+    },
+    {
+      "id": "demo-6",
+      "courseId": "DEMO006",
+      "title": "示例课程六",
+      "teacher": "示例教师六",
+      "room": "DEMO-102",
+      "roomDetail": "DEMO-102",
+      "day": 4,
+      "start": 5,
+      "end": 7,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "color": 5
+    },
+    {
+      "id": "demo-7",
+      "courseId": "DEMO007",
+      "title": "示例课程七",
+      "teacher": "示例教师七",
+      "room": "DEMO-104",
+      "roomDetail": "DEMO-104",
+      "day": 5,
+      "start": 5,
+      "end": 6,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "color": 6
+    },
+    {
+      "id": "demo-8-regular",
+      "courseId": "DEMO008",
+      "title": "示例课程八",
+      "teacher": "示例教师八",
+      "room": "DEMO-301",
+      "roomDetail": "DEMO-301",
+      "day": 5,
+      "start": 7,
+      "end": 8,
+      "weeks": [
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "color": 7
+    },
+    {
+      "id": "demo-8-special",
+      "courseId": "DEMO008",
+      "title": "示例课程八",
+      "teacher": "示例教师八",
+      "room": "DEMO-201",
+      "roomDetail": "DEMO-201",
+      "day": 2,
+      "start": 10,
+      "end": 11,
+      "weeks": [
+        6
+      ],
+      "color": 7
+    }
+  ]
+}
