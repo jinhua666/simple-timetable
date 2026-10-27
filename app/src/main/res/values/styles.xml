@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.SimpleTimetable" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F8F9FC</item>
+        <item name="android:navigationBarColor">#F8F9FC</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#405E9B</item>
+    </style>
+</resources>
